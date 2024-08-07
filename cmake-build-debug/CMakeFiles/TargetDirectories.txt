@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/untitledDT/cmake-build-debug/CMakeFiles/untitledDT.dir
+C:/Users/LENOVO/CLionProjects/untitledDT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/untitledDT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
